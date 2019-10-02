@@ -1,0 +1,2 @@
+# Android_example_View01
+Android简单新闻demo
