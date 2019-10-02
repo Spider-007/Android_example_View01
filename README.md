@@ -1,2 +1,3 @@
 # Android_example_View01
 Android简单新闻demo
+ fragmentbestpractice Moudle是针对 新闻的moudle，运行的时候选择fragmentbestpractice 模块即可！
